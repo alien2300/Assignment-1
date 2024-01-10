@@ -30,7 +30,7 @@ h4{
     overflow: hidden;
 }
 .banner-content-wrap{
-    background-image: url(../B9A1-New-Year-New-Mission-main/resources/banner-bg.png);
+    background-image: url('../resources/banner-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -135,7 +135,7 @@ h4{
 /* Party Section */
   
 .party-content-wrap{
-    background-image: url(../B9A1-New-Year-New-Mission-main/resources/party-img.png);
+    background-image: url('../resources/party-img.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
